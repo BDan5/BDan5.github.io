@@ -13,12 +13,6 @@ body {
   display: flex;
 }
 
-#addCard {
-  background: none;
-  border: none;
-  font-size: 40px;
-}
-
 #board {
   display: flex;
   flex-direction: column;
@@ -46,14 +40,6 @@ body {
   background-color: green;  
 }
 
-.card {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 85px;
-  width: 100px;
-  background-color: white;
-}
 
 #bank {
   display: flex;
