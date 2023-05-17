@@ -1,5 +1,5 @@
 const rows = document.querySelectorAll('.row');
-const colors = ['rgb(0, 255, 0)', 'rgb(0, 255, 100)', 'rgb(255, 255, 0)', 'orange', 'orangered', 'red'];
+const colors = ['green', 'teal', 'yellow', 'orange', 'orangered', 'red'];
 
 const onDragOver = (event) => {
   event.preventDefault();
