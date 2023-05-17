@@ -1,5 +1,5 @@
 const rows = document.querySelectorAll('.row');
-const colors = ['green', 'teal', 'yellow', 'orange', 'orangered', 'red'];
+const colors = ['green', 'aquamarine', 'yellow', 'orange', 'orangered', 'red'];
 
 
 rows.forEach((row, index) => {
